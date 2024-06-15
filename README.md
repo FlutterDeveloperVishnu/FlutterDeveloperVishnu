@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Instagram - https://www.instagram.com/p_r_a_j_a_p_a_t_i_v_i_s_h_n_u/?igsh=dGp2MjhnM3RxbDVj
-  <br>
-  **flutterdeveloper.vishnu@gmail.com**
+  flutterdeveloper.vishnu@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
